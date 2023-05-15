@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: black ;
+    color: beige;
+    text-align: center;
+    padding: 20px;
+}
+footer{
+    background-color: black ;
+    color: beige;
+    text-align: center;
+    padding: 5px;
+}
+.dados01{
+    display: flex;
+}
+.img01{
+    width: 200px;
+    height: 200px;
+}
+.dados02{
+    display: flex;
+    padding: 10px;
+}
+.divdados{
+    overflow: auto;
+    width: 1000px;
+    height: 250px;
+}
+.divdados02{
+    padding: 10px;
+}
